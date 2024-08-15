@@ -1,0 +1,17 @@
+.gupter-bold {
+    font-family: "Gupter", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px; /* Adjust this value to position horizontally as desired */
+    margin-top: 20px; /* Adjust this value to position vertically as desired */
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}

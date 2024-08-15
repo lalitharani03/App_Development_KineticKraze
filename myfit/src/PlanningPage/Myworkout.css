@@ -1,0 +1,19 @@
+
+  .workoutpage {
+    position: absolute;
+    top: 20px; /* Adjust this value to position vertically as desired */
+    right: 20px; /* Adjust this value to position horizontally as desired */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gupter-regular {
+    font-family: "Gupter", serif;
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    padding: 20px;
+}

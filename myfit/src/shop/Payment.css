@@ -1,0 +1,74 @@
+.payment-page {
+    margin-top: 4rem;
+  
+  }
+  
+  .payment-header {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .order-summary {
+    margin-top: 1rem;
+  }
+  
+  .order-summary .total-price,
+  .order-summary .discounted-price {
+    margin-top: 0.5rem;
+  }
+  
+  .discount-input {
+    margin-right: 1rem;
+  }
+  
+  .payment-method-select {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .credit-card-form {
+    margin-top: 20px;
+  }
+  
+  .credit-card-form .expiry-date,
+  .credit-card-form .cvv {
+    margin-right: 10px;
+  }
+  
+  .paypal-info {
+    margin-top: 20px;
+  }
+  
+  .apply-button {
+    margin-top: 1rem;
+    margin-left: 2rem;
+  
+  }
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  .place-order-button {
+    margin-top: 20px;
+    background-color: purple;
+    color: white;
+    width: 100%;
+  }
+  
+  .place-order-button:hover {
+    background-color: darkviolet;
+  }
+  
+  .paper {
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }

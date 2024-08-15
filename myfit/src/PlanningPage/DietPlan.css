@@ -1,0 +1,7 @@
+.diet-plan{
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+    background-color: aqua;
+    margin-top: 1cm;
+}

@@ -1,0 +1,11 @@
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* gap: 8px; */
+    margin-bottom: 6rem;
+}
+.head{
+    text-align: center;
+     margin-top: 2rem;
+     
+}

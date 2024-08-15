@@ -1,0 +1,37 @@
+
+.filters-container {
+    width: 250px;
+    background-color: #fff;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    margin-left: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 20px; 
+  }
+  
+  .filter-title {
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  
+  .filter-group {
+    margin-bottom: 16px;
+  }
+  
+  .checkbox-label {
+    margin-right: 16px;
+  }
+  
+  .filter-select {
+    width: 100%;
+  }
+  
+  @media (max-width: 600px) {
+    .filters-container {
+      width: 100%;
+      padding: 8px;
+    }
+  }

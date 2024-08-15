@@ -1,0 +1,43 @@
+.supplement-details {
+    padding: 20px;
+    max-width: 1200px; 
+    margin: auto;
+  }
+  
+  .recommended-products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+    flex: 1;
+  }
+  
+  .product-name {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .product-price {
+    color: red;
+    font-size: 16px;
+  }
+  
+  .product-offers {
+    color: #666;
+    font-size: 14px;
+  }

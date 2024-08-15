@@ -1,0 +1,61 @@
+.filters-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .filters-container h6 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .filters-container .MuiFormControl-root {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .filters-container .MuiFormLabel-root {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 5px;
+  }
+  
+  .filters-container .MuiSelect-root,
+  .filters-container .MuiSlider-root {
+    width: 100%;
+  }
+  
+  .filters-container .MuiSlider-thumb {
+    color: #1976d2;
+  }
+  
+  .filters-container .MuiSlider-track {
+    color: #1976d2;
+  }
+  
+  .filters-container .MuiSlider-rail {
+    color: #ccc;
+  }
+  
+  .filters-container .MuiCheckbox-root {
+    color: #1976d2; 
+  }
+  
+
+  .filters-container .MuiTypography-root {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  @media (max-width: 600px) {
+    .filters-container {
+      padding: 10px;
+    }
+  
+    .filters-container h6 {
+      font-size: 1.2em;
+    }
+  }

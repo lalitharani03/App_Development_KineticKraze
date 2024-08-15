@@ -1,0 +1,66 @@
+*{
+    /* background-image: url('https://img.freepik.com/free-psd/confetti-border-design_23-2151171449.jpg?t=st=1721975417~exp=1721976017~hmac=983e328747899edd4de3e44d5afe13041526a18c8108f6e100a99163b41e62c0'); */
+
+}
+
+.dietplan1{
+    margin-top: 6rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    text-align: center;
+    border: 5px solid black;
+}
+.dietplan1 TableCell{
+    text-align: center;
+}
+.dietplan2{
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.dietplan3{
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.dietplan4{
+    border: 5px solid black;
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.dietplan5{
+    border: 5px solid black;
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.dietplan6{
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.dietplan7{
+    border: 5px solid black;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.logo{
+    color: black;
+    display: flex;
+    gap: 1rem;
+    margin-left: 1rem;
+    align-items: center;
+}

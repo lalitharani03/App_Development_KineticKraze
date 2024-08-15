@@ -1,0 +1,41 @@
+.bmi-calculator {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+  }
+  
+  .bmi-box,
+  .message-box {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bmi-box {
+    width: 8cm;
+    height:5cm;
+    margin-left: 7cm;
+    background-color: #a35a97;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .message-box {
+    width: 8cm;
+    text-align: center;
+
+    margin-right: 6cm;
+    background-color: #a35a97;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .gupter-regular {
+    font-family: "Gupter", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 

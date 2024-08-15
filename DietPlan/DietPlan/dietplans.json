@@ -1,0 +1,74 @@
+{
+    "Weight Loss": {
+      "Monday": ["Breakfast: Oatmeal", "Lunch: Grilled Chicken Salad", "Dinner: Steamed Vegetables"],
+      "Tuesday": ["Breakfast: Greek Yogurt", "Lunch: Quinoa Salad", "Dinner: Baked Salmon"],
+      "Wednesday": ["Breakfast: Smoothie", "Lunch: Turkey Wrap", "Dinner: Stir-fried Tofu"],
+      "Thursday": ["Breakfast: Whole Grain Toast", "Lunch: Veggie Soup", "Dinner: Grilled Fish"],
+      "Friday": ["Breakfast: Avocado Toast", "Lunch: Chicken Caesar Salad", "Dinner: Roasted Veggies"],
+      "Saturday": ["Breakfast: Omelette", "Lunch: Lentil Soup", "Dinner: Grilled Shrimp"],
+      "Sunday": ["Breakfast: Chia Pudding", "Lunch: Spinach Salad", "Dinner: Baked Chicken"]
+    },
+    "muscle gain": {
+      "Monday": ["Breakfast: Eggs and Toast", "Lunch: Chicken Breast", "Dinner: Steak"],
+      "Tuesday": ["Breakfast: Protein Shake", "Lunch: Salmon", "Dinner: Ground Beef"],
+      "Wednesday": ["Breakfast: Greek Yogurt", "Lunch: Turkey Sandwich", "Dinner: Grilled Chicken"],
+      "Thursday": ["Breakfast: Omelette", "Lunch: Tuna Salad", "Dinner: Pork Chops"],
+      "Friday": ["Breakfast: Smoothie", "Lunch: Meatballs", "Dinner: Chicken Breast"],
+      "Saturday": ["Breakfast: Oatmeal", "Lunch: Grilled Salmon", "Dinner: Beef Stir-fry"],
+      "Sunday": ["Breakfast: Cottage Cheese", "Lunch: Chicken and Rice", "Dinner: Roasted Turkey"]
+    },
+    "Improve endurance": {
+      "Monday": ["Breakfast: Granola", "Lunch: Whole Grain Pasta", "Dinner: Baked Chicken"],
+      "Tuesday": ["Breakfast: Smoothie Bowl", "Lunch: Brown Rice", "Dinner: Grilled Fish"],
+      "Wednesday": ["Breakfast: Whole Wheat Pancakes", "Lunch: Veggie Burger", "Dinner: Quinoa Bowl"],
+      "Thursday": ["Breakfast: Oatmeal", "Lunch: Chicken Wrap", "Dinner: Lentil Stew"],
+      "Friday": ["Breakfast: Fruit Salad", "Lunch: Grilled Veggies", "Dinner: Stuffed Peppers"],
+      "Saturday": ["Breakfast: Bagel and Cream Cheese", "Lunch: Couscous Salad", "Dinner: Stir-fry Chicken"],
+      "Sunday": ["Breakfast: Yogurt and Berries", "Lunch: Salmon Salad", "Dinner: Grilled Steak"]
+    },
+    "General fitness": {
+      "Monday": ["Breakfast: Smoothie", "Lunch: Salad", "Dinner: Grilled Chicken"],
+      "Tuesday": ["Breakfast: Oatmeal", "Lunch: Soup", "Dinner: Pasta"],
+      "Wednesday": ["Breakfast: Eggs and Toast", "Lunch: Sandwich", "Dinner: Stir-fry"],
+      "Thursday": ["Breakfast: Yogurt", "Lunch: Wrap", "Dinner: Grilled Fish"],
+      "Friday": ["Breakfast: Pancakes", "Lunch: Salad", "Dinner: Tacos"],
+      "Saturday": ["Breakfast: French Toast", "Lunch: Soup", "Dinner: Pizza"],
+      "Sunday": ["Breakfast: Bagel", "Lunch: Sushi", "Dinner: Grilled Steak"]
+    },
+    "Flexibility": {
+      "Monday": ["Breakfast: Smoothie", "Lunch: Chicken Salad", "Dinner: Stir-fried Tofu"],
+      "Tuesday": ["Breakfast: Avocado Toast", "Lunch: Veggie Wrap", "Dinner: Quinoa Bowl"],
+      "Wednesday": ["Breakfast: Greek Yogurt", "Lunch: Tuna Salad", "Dinner: Roasted Veggies"],
+      "Thursday": ["Breakfast: Omelette", "Lunch: Lentil Soup", "Dinner: Baked Salmon"],
+      "Friday": ["Breakfast: Whole Wheat Toast", "Lunch: Chicken Wrap", "Dinner: Grilled Fish"],
+      "Saturday": ["Breakfast: Smoothie Bowl", "Lunch: Veggie Stir-fry", "Dinner: Baked Chicken"],
+      "Sunday": ["Breakfast: Chia Pudding", "Lunch: Spinach Salad", "Dinner: Roasted Turkey"]
+    },
+    "Tone lower body": {
+      "Monday": ["Breakfast: Smoothie", "Lunch: Chicken Salad", "Dinner: Quinoa Bowl"],
+      "Tuesday": ["Breakfast: Oatmeal", "Lunch: Tuna Salad", "Dinner: Grilled Chicken"],
+      "Wednesday": ["Breakfast: Avocado Toast", "Lunch: Veggie Wrap", "Dinner: Baked Salmon"],
+      "Thursday": ["Breakfast: Greek Yogurt", "Lunch: Chicken Wrap", "Dinner: Roasted Veggies"],
+      "Friday": ["Breakfast: Whole Wheat Toast", "Lunch: Lentil Soup", "Dinner: Baked Chicken"],
+      "Saturday": ["Breakfast: Smoothie Bowl", "Lunch: Veggie Stir-fry", "Dinner: Grilled Fish"],
+      "Sunday": ["Breakfast: Chia Pudding", "Lunch: Spinach Salad", "Dinner: Roasted Turkey"]
+    },
+    "Lift heavier": {
+      "Monday": ["Breakfast: Eggs and Bacon", "Lunch: Steak", "Dinner: Chicken Breast"],
+      "Tuesday": ["Breakfast: Protein Shake", "Lunch: Salmon", "Dinner: Ground Beef"],
+      "Wednesday": ["Breakfast: Greek Yogurt", "Lunch: Turkey Sandwich", "Dinner: Grilled Chicken"],
+      "Thursday": ["Breakfast: Smoothie", "Lunch: Tuna Salad", "Dinner: Pork Chops"],
+      "Friday": ["Breakfast: Omelette", "Lunch: Meatballs", "Dinner: Chicken Breast"],
+      "Saturday": ["Breakfast: Oatmeal", "Lunch: Grilled Salmon", "Dinner: Beef Stir-fry"],
+      "Sunday": ["Breakfast: Cottage Cheese", "Lunch: Chicken and Rice", "Dinner: Roasted Turkey"]
+    },
+    "Weight gain": {
+      "Monday": ["Breakfast: Pancakes", "Lunch: Grilled Cheese", "Dinner: Steak"],
+      "Tuesday": ["Breakfast: Bagel and Cream Cheese", "Lunch: Cheeseburger", "Dinner: Pasta"],
+      "Wednesday": ["Breakfast: French Toast", "Lunch: Pizza", "Dinner: Fried Chicken"],
+      "Thursday": ["Breakfast: Smoothie", "Lunch: Chicken Nuggets", "Dinner: Meatloaf"],
+      "Friday": ["Breakfast: Waffles", "Lunch: Hot Dogs"],
+      "Saturday": ["Breakfast: Oatmeal", "Lunch: Grilled Salmon", "Dinner: Beef Stir-fry"],
+      "Sunday": ["Breakfast: Cottage Cheese", "Lunch: Chicken and Rice", "Dinner: Roasted Turkey"]
+    }
+}
